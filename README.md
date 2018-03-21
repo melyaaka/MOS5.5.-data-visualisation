@@ -27,12 +27,12 @@ On remarque que la moitié des top 100 visualisations sont de ce type. Le diagra
 
 Un autre exemple du même subreddit créé par un professeur montre les différentes manières dont ses étudiants ont écrit le mot "camouflage". Ce qui est intéressant dans ce diagramme, c'est qu'il indique les étapes où s'effectuent les transitions par des barres verticales et le nombre d'élèves dans chaque étape. 
 
-![Catégorisation](/Img/Picture30.png/)
+![Catégorisation](/Img/Picture36.png/)
 
 ### Flux d'immigration
 Un diagramme de Bloomberg très bien fait illustre bien ce cas d'utilisation. Il est similaire au diagramme de Charles Minard car il essaye de superposer plusieurs données dans un seul graphique. Par contre, la forme de ce diagramme est différente des précédents car il présente des branchements des 2 cotés. L'originalité en plus, c'est que les branches viennent pointer de manière harmonieuse vers les points d'entrées des USA. La partie sud du texas reçoit la majorité des immigrants. 
 
-![Immigration](/Img/Picture37.png/)
+![Immigration](/Img/Picture37.jpg/)
 
 Un autre diagramme similaire concerne les recrutements par les entreprises des étudiants, et montre pour chaque entreprise la part des 5 universités qui pourvoient le plus d'étudiants. La particularité de ce diagramme, c'est qu'il y'a beaucoup de chevauchements des flux. Ce qui est logique car on doit lier chaque entreprise à 5 universités.  
 Ce qui est impressionant, c'est que les intersections les flux sont clairs malgré les intersections. Le choix de couleurs de la transparence et d'emplacement des troncs est très bien fait, et le résultat est bluffant !
